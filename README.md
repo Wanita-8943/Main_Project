@@ -55,8 +55,8 @@
  - รอบที่ 5 ([Re All5 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A5_Train_Unfreez.ipynb))
 
 ## Predict All(ทุกอายุและทุกเพศ)
- - รอบที่ 1 ([5.26%]())
- - รอบที่ 2 ([5.26%]())  
- - รอบที่ 3 ([5.26%]())
+ - รอบที่ 1 ([5.26%](https://github.com/Wanita-8943/Main_Project/blob/main/A1_Predict_Freeze.ipynb))
+ - รอบที่ 2 ([5.26%](https://github.com/Wanita-8943/Main_Project/blob/main/A2_Predict_Freeze.ipynb))  
+ - รอบที่ 3 ([5.26%](https://github.com/Wanita-8943/Main_Project/blob/main/A2_Predict_Freeze.ipynb))
  - รอบที่ 4 ([19.89%]())
  - รอบที่ 5 ([23%]())
