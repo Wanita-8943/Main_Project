@@ -47,7 +47,7 @@
  - NUM_TEST = 950
  - dropout_rate = 0.2
  - input_shape = (height, width, 3)
-## Train All(ทุกอายุและทุกเพศ)
+## Train All(ทุกอายุและทุกเพศ) 
  - รอบที่ 1 ([Re All1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A1_Train_Freeze.ipynb))
  - รอบที่ 2 ([Re All2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A2_Train_Freeze.ipynb))  
  - รอบที่ 3 ([Re All3 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A3_Train_Freeze.ipynb))
