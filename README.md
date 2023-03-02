@@ -7,8 +7,8 @@
  - รอบที่ 3 ([F3 Unfreeze 500]())
  
 ## Predict Female(แบ่งตามอายุของเพศหญิง)
- - รอบที่ 1 ([17.47%]())
- - รอบที่ 2 ([18.11%]())  
+ - รอบที่ 1 ([17.47%](https://github.com/Wanita-8943/Main_Project/blob/main/F1_Predict_Freeze.ipynb))
+ - รอบที่ 2 ([18.11%](https://github.com/Wanita-8943/Main_Project/blob/main/F2_Predict_Freeze.ipynb))  
  - รอบที่ 3 ([]())
    
  ## Train Male(แบ่งตามอายุของเพศชาย)
