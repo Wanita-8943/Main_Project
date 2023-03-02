@@ -51,8 +51,8 @@
  - รอบที่ 1 ([Re All1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A1_Train_Freeze.ipynb))
  - รอบที่ 2 ([Re All2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A2_Train_Freeze.ipynb))  
  - รอบที่ 3 ([Re All3 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A3_Train_Freeze.ipynb))
- - รอบที่ 4 ([Re All4 Unfreeze 250]())
- - รอบที่ 5 ([Re All5 Unfreeze 250]())
+ - รอบที่ 4 ([Re All4 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A4_Train_Unfreez.ipynb))
+ - รอบที่ 5 ([Re All5 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A5_Train_Unfreez.ipynb))
 
 ## Predict All(ทุกอายุและทุกเพศ)
  - รอบที่ 1 ([5.26%]())
