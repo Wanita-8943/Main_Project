@@ -56,9 +56,17 @@
 
 ## Predict All(ทุกอายุและทุกเพศ)
  - รอบที่ 1 ([5.26%](https://github.com/Wanita-8943/Main_Project/blob/main/A1_Predict_Freeze.ipynb))
+   - MSE: 31.0
+   - MAE: 4.7894736842105265
  - รอบที่ 2 ([5.26%](https://github.com/Wanita-8943/Main_Project/blob/main/A2_Predict_Freeze.ipynb))  
+   - MSE: 30.0
+   - MAE: 4.7368421052631575
  - รอบที่ 3 ([5.26%](https://github.com/Wanita-8943/Main_Project/blob/main/A3_Predict_Freeze.ipynb))
+   - MSE: 30.0
+   - MAE: 4.7368421052631575
  - รอบที่ 4 ([19.89%](https://github.com/Wanita-8943/Main_Project/blob/main/A4_Predict_Unfreeze.ipynb))
+   - MSE: 5.893684210526316
+   - MAE: 1.7968421052631578
  - รอบที่ 5 ([23%](https://github.com/Wanita-8943/Main_Project/blob/main/A5_Predict_Unfreeze.ipynb))
    - MSE: 5.096842105263158
    - MAE: 1.6189473684210527
