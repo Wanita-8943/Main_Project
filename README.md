@@ -26,12 +26,15 @@
 ## Train Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([G1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/G1_Train_Freeze.ipynb))
  - รอบที่ 2 ([G2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/G2_Train_Freeze.ipynb))  
+ - รอบที่ 3 ([G3 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/G3_Train_Unfreeze_250.ipynb))
  - รอบที่ 3 ([G3 Unfreeze 500](https://github.com/Wanita-8943/Main_Project/blob/main/G3_Train_Unfreeze_500.ipynb))
  
  ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([69.95%](https://github.com/Wanita-8943/Main_Project/blob/main/G1_Predict_Freeze.ipynb))
  - รอบที่ 2 ([68.32%](https://github.com/Wanita-8943/Main_Project/blob/main/G2_Predict_Freeze.ipynb))  
- - รอบที่ 3 ([]())
+ - รอบที่ 3 250 ([68.63%](https://github.com/Wanita-8943/Main_Project/blob/main/G3_Predict_Unfreeze_250.ipynb))
+ - รอบที่ 3 500 ([68.32%](https://github.com/Wanita-8943/Main_Project/blob/main/G3_Predict_Unfreeze_500.ipynb))
+
 
 # ------------------------------------------------
 # Regression
