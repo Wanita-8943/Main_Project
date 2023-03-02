@@ -60,3 +60,6 @@
  - รอบที่ 3 ([5.26%](https://github.com/Wanita-8943/Main_Project/blob/main/A3_Predict_Freeze.ipynb))
  - รอบที่ 4 ([19.89%](https://github.com/Wanita-8943/Main_Project/blob/main/A4_Predict_Unfreeze.ipynb))
  - รอบที่ 5 ([23%](https://github.com/Wanita-8943/Main_Project/blob/main/A5_Predict_Unfreeze.ipynb))
+   - MSE: 5.096842105263158
+   - MAE: 1.6189473684210527
+   
