@@ -29,8 +29,8 @@
  - รอบที่ 3 ([G3 Unfreeze 500]())
  
  ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
- - รอบที่ 1 ([69.95%]())
- - รอบที่ 2 ([68.32%]())  
+ - รอบที่ 1 ([69.95%](https://github.com/Wanita-8943/Main_Project/blob/main/G1_Predict_Freeze.ipynb))
+ - รอบที่ 2 ([68.32%](https://github.com/Wanita-8943/Main_Project/blob/main/G2_Predict_Freeze.ipynb))  
  - รอบที่ 3 ([]())
 
 # ------------------------------------------------
