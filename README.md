@@ -9,7 +9,7 @@
 ## Predict Female(แบ่งตามอายุของเพศหญิง)
  - รอบที่ 1 ([17.47%](https://github.com/Wanita-8943/Main_Project/blob/main/F1_Predict_Freeze.ipynb))
  - รอบที่ 2 ([18.11%](https://github.com/Wanita-8943/Main_Project/blob/main/F2_Predict_Freeze.ipynb))  
- - รอบที่ 3 ([]())
+ - รอบที่ 3 ([18.53%](https://github.com/Wanita-8943/Main_Project/blob/main/F3_Predict_Unfreeze_500.ipynb))
    
  ## Train Male(แบ่งตามอายุของเพศชาย)
  - รอบที่ 1 ([M1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/M1_Train_Freeze.ipynb))
@@ -21,7 +21,7 @@
  - รอบที่ 1 ([17.10%](https://github.com/Wanita-8943/Main_Project/blob/main/M1_Predict_Freeze.ipynb))
  - รอบที่ 2 ([16.21%](https://github.com/Wanita-8943/Main_Project/blob/main/M2_Predict_Freeze.ipynb))  
  - รอบที่ 3 ([17.89%](https://github.com/Wanita-8943/Main_Project/blob/main/M3_Predict_Freeze.ipynb))
- - รอบที่ 4 ([]())
+ - รอบที่ 4 ([16.63%](https://github.com/Wanita-8943/Main_Project/blob/main/M4_Predict_Unfreeze_500.ipynb))
  
 ## Train Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([G1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/G1_Train_Freeze.ipynb))
