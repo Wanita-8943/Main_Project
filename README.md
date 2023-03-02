@@ -18,9 +18,9 @@
  - รอบที่ 4 ([M4 Unfreeze 500]())
 
  ## Predict Male(แบ่งตามอายุของเพศชาย)
- - รอบที่ 1 ([17.10%]())
- - รอบที่ 2 ([16.21%]())  
- - รอบที่ 3 ([17.89%]())
+ - รอบที่ 1 ([17.10%](https://github.com/Wanita-8943/Main_Project/blob/main/M1_Predict_Freeze.ipynb))
+ - รอบที่ 2 ([16.21%](https://github.com/Wanita-8943/Main_Project/blob/main/M2_Predict_Freeze.ipynb))  
+ - รอบที่ 3 ([17.89%](https://github.com/Wanita-8943/Main_Project/blob/main/M3_Predict_Freeze.ipynb))
  - รอบที่ 4 ([]())
  
 ## Train Gender(แบ่งตามเพศชายและเพศหญิง)
