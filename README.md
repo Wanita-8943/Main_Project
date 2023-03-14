@@ -62,15 +62,19 @@
    - MSE: 31.0
    - MAE: 4.7894736842105265
  - รอบที่ 2 ([5.26%](https://github.com/Wanita-8943/Main_Project/blob/main/A2_Predict_Freeze.ipynb))  
-   - MSE: 30.0
    - MAE: 4.7368421052631575
+   - MSE: 30.0
+   - RMSE: 5.477225575051661
  - รอบที่ 3 ([5.26%](https://github.com/Wanita-8943/Main_Project/blob/main/A3_Predict_Freeze.ipynb))
-   - MSE: 30.0
    - MAE: 4.7368421052631575
+   - MSE: 30.0
+   - RMSE: 5.477225575051661
  - รอบที่ 4 ([19.89%](https://github.com/Wanita-8943/Main_Project/blob/main/A4_Predict_Unfreeze.ipynb))
+   - MAE: 1.7968421052631578 
    - MSE: 5.893684210526316
-   - MAE: 1.7968421052631578
- - รอบที่ 5 ([23%](https://github.com/Wanita-8943/Main_Project/blob/main/A5_Predict_Unfreeze.ipynb))
-   - MSE: 5.096842105263158
+   - RMSE: 2.427691127496724
+ - รอบที่ 5 ([23.10%](https://github.com/Wanita-8943/Main_Project/blob/main/A5_Predict_Unfreeze.ipynb))
    - MAE: 1.6189473684210527
+   - MSE: 5.096842105263158
+   - RMSE: 2.257618680216648
    
