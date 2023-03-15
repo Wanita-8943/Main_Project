@@ -59,7 +59,9 @@
    - MSE: 0.36105263157894735
    - RMSE: 0.6008765526952665
  - รอบที่ 2 250 ([65.16%](https://github.com/Wanita-8943/run/blob/main/Predict_GG2_2e-4_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))  
-   - 
+   - MAE: 0.34842105263157896
+   - MSE: 0.34842105263157896
+   - RMSE: 0.5902720157957507
  - รอบที่ 3 250 ([66.95%](https://github.com/Wanita-8943/run/blob/main/B0_3_(8e-5)_Gender3_Predict_Freeze.ipynb))  
    - MAE: 0.33052631578947367
    - MSE: 0.33052631578947367
