@@ -43,7 +43,7 @@
 ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([19.26%](https://github.com/Wanita-8943/Main_Project/blob/main/AC1_AllAge_Predict_Freeze_250.ipynb))
  - รอบที่ 2 ([18.00%](https://github.com/Wanita-8943/Main_Project/blob/main/AC2_AllAge_Predict_Freeze_250.ipynb))  
- - รอบที่ 3 500 ([%]())
+ - รอบที่ 3 500 ([17.26%](https://github.com/Wanita-8943/Main_Project/blob/main/AC3_AllAge_Predict_Unfreeze_500.ipynb))
 
 
 # ------------------------------------------------
