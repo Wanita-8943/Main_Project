@@ -43,14 +43,30 @@
    - MAE: 3.082105263157895
    - MSE: 18.854736842105265
    - RMSE: 4.3422041456045415
- 
-## Train Gender(แบ่งตามเพศชายและเพศหญิง)
+   - 
+ ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
+ - รอบที่ 1 250 ([63.89%](https://github.com/Wanita-8943/run/blob/main/Predict_GG1_2e_4_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))
+ - รอบที่ 2 250 ([65.16%](https://github.com/Wanita-8943/run/blob/main/Predict_GG2_2e-4_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))  
+ - รอบที่ 3 250 ([66.95%](https://github.com/Wanita-8943/run/blob/main/B0_3_(8e-5)_Gender3_Predict_Freeze.ipynb))  
+   - MAE: 0.33052631578947367
+   - MSE: 0.33052631578947367
+   - RMSE: 0.5749141812387947
+ - รอบที่ 4 250 ([70.32%](https://github.com/Wanita-8943/run/blob/main/B0_4_(8e-5)_Gender4_Predict_Unfreeze.ipynb))  
+   - MAE: 0.2968421052631579
+   - MSE: 0.2968421052631579
+   - RMSE: 0.5448321808255804
+ - รอบที่ 4 500 ([68.74%%](https://github.com/Wanita-8943/run/blob/main/B0_4_(8e-5)_Gender4_Predict_Unfreeze_500.ipynb))  
+   - MAE: 0.3126315789473684
+   - MSE: 0.3126315789473684
+   - RMSE: 0.559134669777656
+   - 
+### อันเก่า Train Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([G1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/G1_Train_Freeze.ipynb))
  - รอบที่ 2 ([G2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/G2_Train_Freeze.ipynb))  
  - รอบที่ 3 ([G3 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/G3_Train_Unfreeze_250.ipynb))
  - รอบที่ 3 ([G3 Unfreeze 500](https://github.com/Wanita-8943/Main_Project/blob/main/G3_Train_Unfreeze_500.ipynb))
  
- ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
+ ### อันเก่า Predict Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([64.95%](https://github.com/Wanita-8943/Main_Project/blob/main/G1_Predict_Freeze.ipynb))
  - รอบที่ 2 ([68.32%](https://github.com/Wanita-8943/Main_Project/blob/main/G2_Predict_Freeze.ipynb))  
  - รอบที่ 3 250 ([68.63%](https://github.com/Wanita-8943/Main_Project/blob/main/G3_Predict_Unfreeze_250.ipynb))
