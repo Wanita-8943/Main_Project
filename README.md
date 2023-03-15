@@ -3,8 +3,17 @@
 # ------------------------------------------------
 ## Train Female(แบ่งตามอายุของเพศหญิง)
  - รอบที่ 1 ([F1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/F1_Train_Freeze_250.ipynb))
+   - MAE: 3.743157894736842
+   - MSE: 27.35578947368421
+   - RMSE: 5.230276233019076
  - รอบที่ 2 ([F2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/F2_Train_Freeze_250.ipynb))  
+   - MAE: 3.6252631578947367
+   - MSE: 26.134736842105262
+   - RMSE: 5.11221447536244
  - รอบที่ 3 ([F3 Unfreeze 500](https://github.com/Wanita-8943/Main_Project/blob/main/F3_Train_Unfreez_500.ipynb))
+   - MAE: 3.6189473684210527
+   - MSE: 26.423157894736843
+   - RMSE: 5.140346087058423
  
 ## Predict Female(แบ่งตามอายุของเพศหญิง)
  - รอบที่ 1 ([17.47%](https://github.com/Wanita-8943/Main_Project/blob/main/F1_Predict_Freeze.ipynb))
@@ -48,7 +57,7 @@
  - รอบที่ 3 250 ([18.00%]([https://github.com/Wanita-8943/Main_Project/blob/main/AC3_AllAge_Predict_Unfreeze_250.ipynb))
  - รอบที่ 3 500 ([17.26%](https://github.com/Wanita-8943/Main_Project/blob/main/AC3_AllAge_Predict_Unfreeze_500.ipynb))
 
-#ครั้งที่ 2 (เทรนรอบที่ 1-2 lr=2e-4 / เทรนรอบที่ 3-4 lr=1e-4)
+# ครั้งที่ 2 (เทรนรอบที่ 1-2 lr=2e-4 / เทรนรอบที่ 3-4 lr=1e-4)
 ## Train All Age(ทุกอายุของเพศชายและเพศหญิง)
  - รอบที่ 1 ([AC1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC1_AllAge_Freeze_250.ipynb))
  - รอบที่ 2 ([AC2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC2_AllAge_Freeze_250.ipynb))
