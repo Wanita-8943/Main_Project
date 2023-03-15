@@ -35,16 +35,32 @@
  - รอบที่ 3 250 ([68.63%](https://github.com/Wanita-8943/Main_Project/blob/main/G3_Predict_Unfreeze_250.ipynb))
  - รอบที่ 3 500 ([68.32%](https://github.com/Wanita-8943/Main_Project/blob/main/G3_Predict_Unfreeze_500.ipynb))
 
+#ครั้งที่ 1 (lr=2e-4 ทั้งหมด)
 ## Train All Age(ทุกอายุของเพศชายและเพศหญิง)
  - รอบที่ 1 ([AC1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC1_AllAge_Freeze_250.ipynb))
  - รอบที่ 2 ([AC2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC2_AllAge_Freeze_250.ipynb))
+ - รอบที่ 3 ([AC3 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC3_AllAge_Unfreeze_250.ipynb))
  - รอบที่ 3 ([AC3 Unfreeze 500](https://github.com/Wanita-8943/Main_Project/blob/main/AC3_AllAge_Unfreeze_500.ipynb))
-
+ 
 ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([19.26%](https://github.com/Wanita-8943/Main_Project/blob/main/AC1_AllAge_Predict_Freeze_250.ipynb))
  - รอบที่ 2 ([18.00%](https://github.com/Wanita-8943/Main_Project/blob/main/AC2_AllAge_Predict_Freeze_250.ipynb))  
+ - รอบที่ 3 250 ([18.00%]([https://github.com/Wanita-8943/Main_Project/blob/main/AC3_AllAge_Predict_Unfreeze_250.ipynb))
  - รอบที่ 3 500 ([17.26%](https://github.com/Wanita-8943/Main_Project/blob/main/AC3_AllAge_Predict_Unfreeze_500.ipynb))
 
+#ครั้งที่ 2 (เทรนรอบที่ 1-2 lr=2e-4 / เทรนรอบที่ 3-4 lr=1e-4)
+## Train All Age(ทุกอายุของเพศชายและเพศหญิง)
+ - รอบที่ 1 ([AC1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC1_AllAge_Freeze_250.ipynb))
+ - รอบที่ 2 ([AC2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC2_AllAge_Freeze_250.ipynb))
+ - รอบที่ 3 ([AC3 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/(1e-4)AC3_AllAge_Freeze_250.ipynb))
+ - รอบที่ 4 ([AC4 Unfreeze 250]())
+ 
+## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
+ - รอบที่ 1 ([19.26%](https://github.com/Wanita-8943/Main_Project/blob/main/AC1_AllAge_Predict_Freeze_250.ipynb))
+ - รอบที่ 2 ([18.00%](https://github.com/Wanita-8943/Main_Project/blob/main/AC2_AllAge_Predict_Freeze_250.ipynb))  
+ - รอบที่ 3 ([18.42%](https://github.com/Wanita-8943/Main_Project/blob/main/%20(1e-4)AC3_AllAge_Predict_Freeze_250.ipynb))
+ - รอบที่ 4 500 ([%]())
+ 
 
 # ------------------------------------------------
 # Regression
