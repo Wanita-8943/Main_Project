@@ -91,32 +91,25 @@
 
 
 
-
-# ครั้งที่ 1 (lr=2e-4 ทั้งหมด)
+# ครั้งที่ 1 (lr=2e-5 ทั้งหมด)
 ## Train All Age(ทุกอายุของเพศชายและเพศหญิง)
- - รอบที่ 1 ([AC1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC1_AllAge_Freeze_250.ipynb))
- - รอบที่ 2 ([AC2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC2_AllAge_Freeze_250.ipynb))
- - รอบที่ 3 ([AC3 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC3_AllAge_Unfreeze_250.ipynb))
- - รอบที่ 3 ([AC3 Unfreeze 500](https://github.com/Wanita-8943/Main_Project/blob/main/AC3_AllAge_Unfreeze_500.ipynb))
+ - รอบที่ 1 ([AC1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/1_AC1_Train_AllAge_Freeze_(2e-5)_250.ipynb))
+ - รอบที่ 2 ([AC2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/2_AC2_Train_AllAge_Freeze_(2e_5)_250.ipynb))
+ - รอบที่ 3 ([AC3 Unfreeze 500](https://github.com/Wanita-8943/Main_Project/blob/main/3_AC3_Train_AllAge_Unfreeze_(2e-5)_500.ipynb))
 ## Predict All Age(ทุกอายุของเพศชายและเพศหญิง)
- - รอบที่ 1 ([19.26%](https://github.com/Wanita-8943/Main_Project/blob/main/AC1_AllAge_Predict_Freeze_250.ipynb))
- - รอบที่ 2 ([18.00%](https://github.com/Wanita-8943/Main_Project/blob/main/AC2_AllAge_Predict_Freeze_250.ipynb))  
- - รอบที่ 3 250 ([18.00%](https://github.com/Wanita-8943/Main_Project/blob/main/AC3_AllAge_Predict_Unfreeze_250.ipynb))
- - รอบที่ 3 500 ([17.26%](https://github.com/Wanita-8943/Main_Project/blob/main/AC3_AllAge_Predict_Unfreeze_500.ipynb))
+ - รอบที่ 1 ([19.26%](https://github.com/Wanita-8943/Main_Project/blob/main/1_AC1_Predict_AllAge_Freeze_(2e-5)_250.ipynb))
+   - MAE: 3.809473684210526
+   - MSE: 31.942105263157895
+   - RMSE: 5.6517347127371345
+ - รอบที่ 2 ([21.16%](https://github.com/Wanita-8943/Main_Project/blob/main/2_AC2_Predict_AllAge_Freeze_(2e-5)_250.ipynb))  
+   - MAE: 3.86
+   - MSE: 33.51894736842105
+   - RMSE: 5.789555023352058
+ - รอบที่ 3 500 ([20.42%](https://github.com/Wanita-8943/Main_Project/blob/main/3_AC3_Predict_AllAge_Unfreeze_%282e-5%29_500.ipynb))
+   - MAE: 4.0063157894736845
+   - MSE: 35.13473684210526
+   - RMSE: 5.927456186434891
 
-
-
-# ครั้งที่ 2 (เทรนรอบที่ 1-2 lr=2e-4 / เทรนรอบที่ 3-4 lr=1e-4)
-## Train All Age(ทุกอายุของเพศชายและเพศหญิง)
- - รอบที่ 1 ([AC1 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC1_AllAge_Freeze_250.ipynb))
- - รอบที่ 2 ([AC2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/AC2_AllAge_Freeze_250.ipynb))
- - รอบที่ 3 ([AC3 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/(1e-4)AC3_AllAge_Freeze_250.ipynb))
- - รอบที่ 4 ([AC4 Unfreeze 500](https://github.com/Wanita-8943/Main_Project/blob/main/(1e-4)AC4_AllAge_Unfreeze_500.ipynb)) 
-## Predict All Age(ทุกอายุของเพศชายและเพศหญิง)
- - รอบที่ 1 ([19.26%](https://github.com/Wanita-8943/Main_Project/blob/main/AC1_AllAge_Predict_Freeze_250.ipynb))
- - รอบที่ 2 ([18.00%](https://github.com/Wanita-8943/Main_Project/blob/main/AC2_AllAge_Predict_Freeze_250.ipynb))  
- - รอบที่ 3 ([18.42%](https://github.com/Wanita-8943/Main_Project/blob/main/%20(1e-4)AC3_AllAge_Predict_Freeze_250.ipynb))
- - รอบที่ 4 500 ([%]())
  
 
 # ------------------------------------------------
