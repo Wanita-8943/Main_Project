@@ -98,17 +98,17 @@
  - รอบที่ 3 ([AC3 Unfreeze 500](https://github.com/Wanita-8943/Main_Project/blob/main/3_AC3_Train_AllAge_Unfreeze_(2e-5)_500.ipynb))
 ## Predict All Age(ทุกอายุของเพศชายและเพศหญิง)
  - รอบที่ 1 ([19.26%](https://github.com/Wanita-8943/Main_Project/blob/main/1_AC1_Predict_AllAge_Freeze_(2e-5)_250.ipynb))
-   - MAE: 3.809473684210526
-   - MSE: 31.942105263157895
-   - RMSE: 5.6517347127371345
+   - MAE: 3.328421052631579
+   - MSE: 22.802105263157895
+   - RMSE: 4.77515499886212
  - รอบที่ 2 ([21.16%](https://github.com/Wanita-8943/Main_Project/blob/main/2_AC2_Predict_AllAge_Freeze_(2e-5)_250.ipynb))  
-   - MAE: 3.86
-   - MSE: 33.51894736842105
-   - RMSE: 5.789555023352058
+   - MAE: 3.376842105263158
+   - MSE: 24.338947368421053
+   - RMSE: 4.933451871501439
  - รอบที่ 3 500 ([20.42%](https://github.com/Wanita-8943/Main_Project/blob/main/3_AC3_Predict_AllAge_Unfreeze_%282e-5%29_500.ipynb))
-   - MAE: 4.0063157894736845
-   - MSE: 35.13473684210526
-   - RMSE: 5.927456186434891
+   - MAE: 3.5231578947368423
+   - MSE: 25.954736842105262
+   - RMSE: 5.094579162414228
 
  
 
