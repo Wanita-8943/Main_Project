@@ -131,7 +131,9 @@
  - รอบที่ 2 ([Re All2 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A2_Train_Freeze.ipynb))  
  - รอบที่ 3 ([Re All3 Freeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A3_Train_Freeze.ipynb))
  - รอบที่ 4 ([Re All4 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A4_Train_Unfreez.ipynb))
- - รอบที่ 5 ([Re All5 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A5_Train_Unfreez.ipynb))
+ - รอบที่ 5 ([colab เปิดไม่ได้](https://github.com/Wanita-8943/Main_Project/blob/main/A5_Train_Unfreez.ipynb))
+ - รอบที่ 5 ([Re All5 Unfreeze 250](https://colab.research.google.com/drive/1LbgE_qT0FiJZwPzHRyZMY3sqbtHWBnzg?authuser=4))
+ 
 
 ## Predict All(ทุกอายุและทุกเพศ)
  - รอบที่ 1 ([5.26%](https://github.com/Wanita-8943/Main_Project/blob/main/A1_Predict_Freeze.ipynb))
