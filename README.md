@@ -133,6 +133,8 @@
  - รอบที่ 4 ([Re All4 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A4_Train_Unfreez.ipynb))
  - รอบที่ 5 ([colab เปิดไม่ได้](https://github.com/Wanita-8943/Main_Project/blob/main/A5_Train_Unfreez.ipynb))
  - รอบที่ 5 ([Re All5 Unfreeze 250](https://colab.research.google.com/drive/1LbgE_qT0FiJZwPzHRyZMY3sqbtHWBnzg?authuser=4))
+ - รอบที่ 6 ([Re All6 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A6_Train_Unfreeze.ipynb))
+
  
 
 ## Predict All(ทุกอายุและทุกเพศ)
@@ -156,4 +158,8 @@
    - MAE: 1.6189473684210527
    - MSE: 5.096842105263158
    - RMSE: 2.257618680216648
+ - รอบที่ 6 ([22.42%](https://github.com/Wanita-8943/Main_Project/blob/main/A6_Predict_Unfreeze.ipynb))
+   - MAE: 
+   - MSE: 
+   - RMSE: 
    
