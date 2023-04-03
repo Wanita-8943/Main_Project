@@ -164,7 +164,7 @@
    - MAE: 1.7473684210526317
    - MSE: 5.823157894736842
    - RMSE: 
- - รอบที่ 7 ([%](https://github.com/Wanita-8943/Main_Project/blob/main/A7_Predict_Unfreeze.ipynb))
+ - รอบที่ 7 ([30.63%](https://github.com/Wanita-8943/Main_Project/blob/main/A7_Predict_Unfreeze.ipynb))
    - MAE: 1.5273684210526315
    - MSE: 4.8578947368421055
    - RMSE: 2.2040632334037302
