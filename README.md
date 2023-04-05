@@ -135,6 +135,10 @@
  - รอบที่ 5 ([Re All5 Unfreeze 250](https://colab.research.google.com/drive/1LbgE_qT0FiJZwPzHRyZMY3sqbtHWBnzg?authuser=4))
  - รอบที่ 6 ([Re All6 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A6_Train_Unfreeze.ipynb))
  - รอบที่ 7 ([Re All7 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A7_Train_Unfreeze.ipynb))
+ - รอบที่ 8 ([Re All8 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A8_Train_Unfreeze.ipynb))
+ - รอบที่ 9 ([Re All9 Unfreeze 250](https://github.com/Wanita-8943/Main_Project/blob/main/A9_Train_Unfreeze.ipynb))
+ 
+
 
 
  
@@ -168,4 +172,11 @@
    - MAE: 1.5273684210526315
    - MSE: 4.8578947368421055
    - RMSE: 2.2040632334037302
-   
+ - รอบที่ 8 ([25.16%](https://github.com/Wanita-8943/Main_Project/blob/main/A8_Predict_Unfreeze.ipynb))
+   - MAE: 1.9410526315789474
+   - MSE: 7.79578947368421
+   - RMSE: 2.7920941018676664
+ - รอบที่ 9 ([26.25%](https://github.com/Wanita-8943/Main_Project/blob/main/A9_Predict_Unfreeze.ipynb))
+   - MAE: 1.6694736842105262
+   - MSE: 5.515789473684211
+   - RMSE: 2.348571794449599
